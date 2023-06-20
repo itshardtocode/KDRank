@@ -1,2 +1,3 @@
 # KDRank
-KDRank: Knowledge Driven User-Aware POI Recommendation
+
+Knowledge Driven based User-Aware for POI Recommendation
